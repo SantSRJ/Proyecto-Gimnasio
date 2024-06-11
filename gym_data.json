@@ -1,0 +1,34 @@
+{
+    "entrenadores": [],
+    "clases": [
+        {
+            "nombre": "Crossfit",
+            "horario": "0800 - 0900",
+            "duracion": "1",
+            "capacidad_maxima": "20",
+            "nivel_dificultad": "medio",
+            "nombre_entrenador": "Santiago"
+        }
+    ],
+    "miembros": [
+        {
+            "nombre": "Gimena",
+            "numero_membresia": "1234",
+            "tipo_membresia": "Premium",
+            "reservas": []
+        },
+        {
+            "nombre": "Diego",
+            "numero_membresia": "1234",
+            "tipo_membresia": "Premium",
+            "reservas": []
+        },
+        {
+            "nombre": "Ramiro",
+            "numero_membresia": "1232",
+            "tipo_membresia": "Vip",
+            "reservas": []
+        }
+    ],
+    "reservas": []
+}
